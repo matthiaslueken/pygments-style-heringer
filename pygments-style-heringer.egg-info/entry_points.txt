@@ -1,2 +1,0 @@
-[pygments.styles]
-                    github=pygments_style_github:GithubStyle

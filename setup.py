@@ -15,10 +15,10 @@ setup(
     url='https://github.com/matthiaslueken/pygments-style-heringer',
 
     packages=find_packages(),
-    install_requires=['pygments >= 2.5.1'],
+    install_requires=['pygments >= 1.4'],
 
     entry_points='''[pygments.styles]
-                    github=pygments_style_github:GithubStyle''',
+                    heringer=pygments_style_heringer:HeringerStyle''',
 
     classifiers=[
         'Development Status :: 1 - Beta',
