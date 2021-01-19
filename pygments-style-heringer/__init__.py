@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
     pygments-style-heringer
     ~~~~~~~~~~~~~~~~~~~~~~~
@@ -14,7 +14,7 @@ from pygments.token import Keyword, Name, Comment, String, Error, \
      Number, Operator, Generic, Whitespace
 
 
-class DefaultStyle(Style):
+class HeringerStyle(Style):
     """
     The Heringer style.
     """

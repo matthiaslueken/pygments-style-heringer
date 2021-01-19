@@ -1,11 +1,12 @@
-Metadata-Version: 1.0
+ï»¿Metadata-Version: 1.1
 Name: pygments-style-heringer
 Version: 0.1
 Summary: Default Pygments theme with different colors.
 Home-page: https://github.com/matthiaslueken/pygments-style-heringer
-Author: Matthias Lüken
+Author: Matthias Lueken
+Author-email: UNKNOWN
 License: BSD
-Description:       
+Description: UNKNOWN
 Keywords: pygments style
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Beta

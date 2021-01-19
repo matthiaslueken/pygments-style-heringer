@@ -1,1 +1,1 @@
-pygments_style_heringer
+pygments-style-heringer

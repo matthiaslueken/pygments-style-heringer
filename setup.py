@@ -1,3 +1,4 @@
+﻿# -*- coding: utf-8 -*-
 #!/usr/bin/python
 
 from setuptools import setup, find_packages
@@ -9,12 +10,12 @@ setup(
     keywords='pygments style',
     license='BSD',
 
-    author='Matthias L�ken',
+    author='Matthias Lüken',
 
     url='https://github.com/matthiaslueken/pygments-style-heringer',
 
     packages=find_packages(),
-    install_requires=['pygments >= 1.4'],
+    install_requires=['pygments >= 2.5.1'],
 
     entry_points='''[pygments.styles]
                     github=pygments_style_github:GithubStyle''',
