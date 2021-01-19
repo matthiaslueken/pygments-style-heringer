@@ -21,7 +21,7 @@ setup(
                     heringer=pygments_style_heringer:HeringerStyle''',
 
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 4 - Beta',
         'Environment :: Plugins',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
