@@ -1,2 +1,2 @@
 # pygments-style-heringer
-Default Pygments theme with different colors.
+A Pygments style inspired by Microsoft SSMS but with modified colors.

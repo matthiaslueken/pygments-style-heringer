@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='pygments-style-heringer',
-    version='0.1',
-    description='Default Pygments theme with different colors.',
+    version='0.2',
+    description='A Pygments style inspired by Microsoft SSMS but with modified colors.',
     keywords='pygments style',
     license='BSD',
 
@@ -15,7 +15,7 @@ setup(
     url='https://github.com/matthiaslueken/pygments-style-heringer',
 
     packages=find_packages(),
-    install_requires=['pygments >= 1.4'],
+    install_requires=['pygments >= 2.2'],
 
     entry_points='''[pygments.styles]
                     heringer=pygments_style_heringer:HeringerStyle''',
